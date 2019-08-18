@@ -1,4 +1,4 @@
-# ignore all checkpoints
+# ignore all ipynb_checkpoints
 *.ipynb_checkpoints
 
 
