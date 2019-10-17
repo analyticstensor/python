@@ -1,0 +1,2 @@
+config_file :
+  'style/style_format.json'

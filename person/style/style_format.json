@@ -1,0 +1,64 @@
+[
+  {
+  "id": 0,
+  "detail_info": {
+  "country_name": "Global Country",
+  "country_capital": null,
+  "popular_state": null,
+  "country_phone_code": "00",
+  "style":
+    {
+      "version": 1,
+      "create_date": "2019-10-04",
+      "common_letters": ["a", "s", "m", "e", "j"],
+      "vowel": 100
+    }
+  }},
+  {
+  "id": 1,
+  "detail_info": {
+  "country_name": "United States",
+  "country_capital": "Washing DC",
+  "popular_state": ["NY", "CA", "DC"],
+  "country_phone_code": "01",
+  "style":
+    {
+      "version": 1,
+      "create_date": "2019-10-04",
+      "common_letters": ["a", "e", "s", "g", "a"],
+      "constant": 80,
+      "vowel": 20
+    }
+  }},
+  {
+  "id": 2,
+  "detail_info": {
+  "country_name": "European",
+  "country_capital": "Washing DC",
+  "popular_state": ["NY", "CA", "DC"],
+  "country_phone_code": "00",
+   "style":
+    {
+      "version": 1,
+      "create_date": "2019-10-04",
+      "common_letters": ["j", "s", "b", "g", "m"],
+      "constant": 100
+    }
+  }},
+  {
+  "id": 3,
+  "detail_info": {
+  "country_name": "United Kingdom",
+  "country_capital": "Washing DC",
+  "popular_state": ["NY", "CA", "DC"],
+  "country_phone_code": "00",
+  "style":
+    {
+      "version": 1,
+      "create_date": "2019-10-04",
+      "common_letters": ["j", "s", "t", "g", "a"],
+      "constant": 80,
+      "vowel": 20
+    }
+  }}
+]
